@@ -1,4 +1,4 @@
-/*2
+/*
 Nate Bernstein
 CS1050
 March 18
